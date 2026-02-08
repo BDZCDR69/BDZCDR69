@@ -54,7 +54,6 @@
 <ul>
   <li>Program logic and flow design</li>
   <li>Networking and protocol fundamentals</li>
-  <li>SPF and DKIM fundamentals</li>
 </ul>
 
 <hr>
