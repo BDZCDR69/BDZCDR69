@@ -61,8 +61,8 @@
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceRajpurohit&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRajpurohit&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BDZCDR69&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BDZCDR69&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <hr>
